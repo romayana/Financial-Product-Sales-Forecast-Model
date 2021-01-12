@@ -18,10 +18,13 @@ DZ
 Identificación Dirección de Zona a la que pertenece la oficina.
 Una Dirección de Zona engloba varias oficinas
 •	11 Direcciones de Zona
+
 OFICINA
 Numero de Oficina / Sucursal de banco
+
 PERSONA
 Numero de cliente
+
 EDAD
 Edad del cliente
 ESTA_CARTERIZADO
