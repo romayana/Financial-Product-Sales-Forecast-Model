@@ -27,67 +27,93 @@ Numero de cliente
 
 EDAD
 Edad del cliente
+
 ESTA_CARTERIZADO
 Identifica si el cliente pertenece o no a una cartera.
+
 CARTERA_PATRON
 Tipo de cartera a la que pertenece el cliente.
 •	Asesoramiento Financiero
 •	Tutela = Familiar de cliente Asesoramiento Financiero
+
 CLIENTE_BBP
 Cliente con saldos superiores a 500.000€ identificado como colectivo Banca Privadal.  	
+
 GESTOR
 Numero identificación del gestor/ Asesor Financiero de la sucursal
+
 TIP_GESTOR
 Tipo de gestor
+
 CODIGO_CARTERA
 Numero identificación cartera a la que pertenece el cliente.
+
 MARCA_AF_CCTE
 Identifica tipo de gestor
 •	AF- Asesor Financiero (Oficina)
 •	CCTE – Gestor Online	
+
 MARCA_BANCA_PERSONAL
 Cliente perteneciente a cartera Asesoramiento Financiero e  identificado como colectivo Banca Personal.  	
+
 SEGMENTO_RECORRIDO
 Identifica el potencial recorrido del cliente para una mayor vinculación.
 •	Alto Recorrido
 •	Medio Recorrido
 •	Bajo Recorrido
+
 SEGMENTO_VALOR
 Valor del cliente
+
 CAMINO_DIGITAL 
 Se diferencian 4 tipo de clientes según la utilización de canales digitales. 
 •	Comprador
 •	Consultivo
 •	Transaccional
-•	Poco uso.
+•	Poco uso
+
 DIGITAL_3_MESES
 Identifica si el cliente ha utilizado medios digitales durante los últimos 3 meses.
+
 LP_DOMIC_INGRESOS
 Tiene o no tiene ingresos domiciliados
+
 LP_OFIC_INTERNET
 Tiene o no tiene servicio internet
+
 LP_REC_LTGA_OTR
 Tiene o no tiene recibos domiciliados
+
 LP_SEG_ACCIDENT
 Tiene o no tiene seguro accidentes contratado
+
 LP_SEG_AUTO
 Tiene o no tiene seguro automóvil contratado
+
 LP_SEG_MEDICOS
 Tiene o no tiene seguro salud privado contratado
+
 LP_SEG_MULTIRRIES
 Tiene o no tiene seguro hogar contratado
+
 LP_SEG_VIDA
 Tiene o no tiene seguro vida contratado
+
 LP_TARJ_CREDITO
 Tiene o no tiene tarjeta crédito pago fin de mes contratada
+
 LP_TARJ_REVOLVING
 Tiene o no tiene tarjeta crédito pago fraccionado contratada
+
 SF_AH_CAPTACION_TT
 Saldo en cuenta de ahorro
+
 SF_FINANCIACION_TT
 Importe financiación en activo. 
+
 SF_FONDOS_INVER
 Saldo en Fondo de Inversion
+
 SF_PLAN_PENSION
 Saldo Plan de Pension
 
