@@ -10,6 +10,6 @@ Investmen Funds, Pension Plans and Insurance of Risk commercialized in banking o
 
 **DATA**
 
-Data comes from the sum of different data sets obtained directly from the financial institution.  ALL  DATA  HAS  BEEN ANONYMIZED.  NAMES AND NUMBER OF INTERNAL  CLIENTS HAVE BEEN REMOVED, NUMBER AND SPECIFICATIONS OF AREA AND OFFICE ADDRESSES HAVE BEEN REMOVED AND FINALLY  NAME OF COMMERCIAL MANAGERS HAVE BEEN REMOVED.   All these data have been assigned a fictitious identification number, leaving only the data of holding or not holding product by customers.
+Data comes from the sum of different data sets obtained directly from the financial institution.  ALL  DATA  HAS  BEEN ANONYMIZED.  NAMES AND NUMBER OF INTERNAL CLIENTS HAVE BEEN REMOVED, NUMBER AND SPECIFICATIONS OF AREA AND OFFICE ADDRESSES HAVE BEEN REMOVED AND FINALLY  NAME OF COMMERCIAL MANAGERS HAVE BEEN REMOVED.   All these data have been assigned a fictitious identification number, leaving only the data of holding or not holding product by customers.
 
 
