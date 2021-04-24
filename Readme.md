@@ -178,5 +178,5 @@ Implementamos los mejores parámetros recomendados recogiendo los siguientes res
 
 •	**Estudio de la Matriz de Confusion final obtenida**
 
-![](RANDOMFOREST%20Model%20-%20Confusion_Matrix_Gridsearch.png)
+
 
