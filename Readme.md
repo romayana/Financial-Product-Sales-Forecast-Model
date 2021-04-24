@@ -25,8 +25,8 @@ La generación de comisiones es fundamental para la cuenta de resultados de la o
 **Informacion del Repositorio**
 
 El repositorio se estructura en   5 carpetas y 4 archivos.
-Carpeta 1 – Códigos Python Limpieza y Unión 
-Carpeta 2 – Códigos Python EDA Análisis Exploratorio
+- Carpeta 1 – Códigos Python Limpieza y Unión 
+- Carpeta 2 – Códigos Python EDA Análisis Exploratorio
 Carpeta 3 – Códigos Python Preprocesado
 Carpeta 4 – Imágenes .png guardadas de cada una de las gráficas construidas
 Carpeta 5 – Códigos Python Modelos clasificación utilizados.
