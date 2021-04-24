@@ -154,4 +154,12 @@ Se proponen los siguientes parametros a probar:
     'min_samples_split' : [2,4],
     'min_samples_leaf' : [15,20]
 
+Resultando elegidos los siguientes: 
+
+    'criterion': 'gini',
+    'max_depth': 10,
+    'max_features': 'auto',
+ 'min_samples_leaf': 15,
+ 'min_samples_split': 2,
+ 'n_estimators': 100
 
