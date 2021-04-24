@@ -96,5 +96,5 @@ Modelos Machine Learning Entrenados.
 
 •	**Modelo Clasificación Randon Forest - MODELO FINAL ELEGIDO**
 
-![](Images/CLR%20Model%20-%20Roc%20Curve%20First%20Aproach.png)
+![](Images/resultados_modelos.png)
 
