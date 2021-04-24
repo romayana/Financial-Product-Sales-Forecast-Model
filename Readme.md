@@ -163,8 +163,13 @@ Resultando elegidos los siguientes:
     'min_samples_split': 2,
     'n_estimators': 100
 
-•	**Construccion del Modelo con los Mejores Parametros propuestos mediante GridSearch.**
+•	**Adaptación del Modelo con los Mejores Parametros propuestos mediante GridSearch.**
 
 Implementamos los mejores parámetros recomendados recogiendo los siguientes resultados.
 
-\- La primera mejora obtenida es que  hemos conseguido solucionar el overfitting igualando las métricas de Train y Test a 0.86 y 0.85  
+\- Consolidamos la solucion del desbalanceo mediante Class Weigth = Balanced
+\- Conseguimos solucionar el overfitting igualando las métricas de Train y Test a 0.86 y 0.85  
+\- Obtenemos unos resultados finales acordes a nuestra busqueda y necesidad.
+
+![](Images/RESULTADO_RANDOM_FOREST_FINAL.PNG)
+
