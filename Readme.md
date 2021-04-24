@@ -182,3 +182,5 @@ Implementamos los mejores parámetros recomendados recogiendo los siguientes res
 ![](Images/RANDOMFOREST_MATRIZ_DE_CONFUSION.PNG)
 
 En la diagonal de aciertos tenemos 69274 verdaderos positivos  y 4347 verdaderos negativos, todo ello con el objetivo de optimizar el tiempo y la eficiencia comercial. En nuestro modelo buscamos la detección de los clientes que sí quieren contratar el seguro.  Necesitamos obtener una buena tasa de verdaderos positivos o verdaderos negativos.  Si detectamos a los clientes que probablemente vayan a contratar un seguro de hogar o que no lo vayan a hacer, podremos trabajar de forma más directa. La realidad comercial es que nos da lo mismo trabajar con verdaderos positivos o negativos. Ambos sirven de filtro para poder llamar o no llamar.  Finalmente,  ¿qué proporción de positivos reales se identificó correctamente? El resultado de Recall obtenido es óptimo, con un 85%.
+
+•	**Conclusiones**
