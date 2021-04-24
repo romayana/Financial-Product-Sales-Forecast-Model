@@ -106,9 +106,11 @@ Modelos Machine Learning Entrenados.
 
 •	Primera Aproximación
 
-Nuestro camino comienza con la base de datos limpia con un preprocesado único de modificación de Nans.  Se trata de la primera base de datos obtenida después de haberla unido en la primera fase de construcción.  Queríamos saber con los datos en crudo que comportamiento tenia el modelo y que métricas obteníamos sin hacer nada intermedio.
+Mi primera intencion era saber que resultados obtendriamos sin hacer nada, simplementes utilizando la base de datos en crudo.  Utilizamos en esta primera aproximacion al modelo la primer base de datos construida en nuestra fase de merging & cleanning.  Se trata de una base de datos cuyo unico preprocesamiento ha sido la identificacion de los Nans y posterior asignacion de valores acordes a las particularidades de cada una de las variables.
 
-Los Resultados fueron las siguientes.  Claramente mejorables. 
+Los resultados obtenidos fueron las siguientes.  Claramente mejorables. 
 
 ![](Images/RESULTADO_RANDOM_FOREST_PRIMERA_APROX.PNG)
+
+•	Construcion y evolucion del modelo.  
 
