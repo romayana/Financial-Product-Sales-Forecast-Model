@@ -97,4 +97,4 @@ Modelos Machine Learning Entrenados.
 •	**Modelo Clasificación Randon Forest - MODELO FINAL ELEGIDO**
 
 
-![](images/EDA-Seguro de Hogar.png)
+![](Images/EDA-Seguro de Hogar.png)
