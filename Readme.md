@@ -134,5 +134,10 @@ El entrenamiento y resultado de las dos primeras bases de datos ha sido casi id�
 
 ![](Images/RANDOMFOREST%20Model%20-%20Evaluacion%20de%20Overfitting.png)
 
-Las métricas obtenidas solo con este ajuste mejoran algo nuestra primera aproximación, pero en ningún caso lo suficiente
+Los resultados y metricas finales de esta primera evolucion solo mejoran algo nuestra primera aproximación. Necesitamos implementar mejoras que nos lleven a conseguir nuestro objetivo.
+
+![](Images/RESULTADO_RANDOM_FOREST_EVOLUCION.PNG)
+
+
+
   
