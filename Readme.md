@@ -95,3 +95,6 @@ Modelos Machine Learning Entrenados.
 •	Modelo Clasificación Xgboost
 
 •	**Modelo Clasificación Randon Forest - MODELO FINAL ELEGIDO**
+
+
+![](images/EDA-Seguro de Hogar.png)
