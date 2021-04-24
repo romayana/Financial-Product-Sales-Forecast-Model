@@ -96,7 +96,18 @@ Modelos Machine Learning Entrenados.
 
 •	**Modelo Clasificación Randon Forest - MODELO FINAL ELEGIDO**
 
-Resultados Obtenidos de los modelos entrenados
+
+Resumen de Resultados Obtenidos de los modelos entrenados
 
 ![](Images/resultados_modelos.png)
+
+**10. Desarrollo del Modelo**
+
+•	Primera Aproximación
+
+Nuestro camino comienza con la base de datos limpia con un preprocesado único de modificación de Nans.  Se trata de la primera base de datos obtenida después de haberla unido en la primera fase de construcción.  Queríamos saber con los datos en crudo que comportamiento tenia el modelo y que métricas obteníamos sin hacer nada intermedio.
+
+Los Resultados fueron las siguientes.  Claramente mejorables. 
+
+
 
