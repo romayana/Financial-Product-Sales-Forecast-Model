@@ -111,7 +111,6 @@ Mi primera intencion era saber que resultados obtendriamos sin hacer nada, simpl
 Los resultados obtenidos fueron las siguientes.  Claramente mejorables. 
 
 
-![](Images/RESULTADO_RANDOM_FOREST_PRIMERA_APROX.PNG)
 
 •	Construcion y evolucion del modelo.  
 
