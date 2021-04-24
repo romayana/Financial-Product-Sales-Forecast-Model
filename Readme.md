@@ -96,8 +96,5 @@ Modelos Machine Learning Entrenados.
 
 •	**Modelo Clasificación Randon Forest - MODELO FINAL ELEGIDO**
 
-![](Images/CLR Model - Confusion_matrix_clf_log_regressor_weight balance.png)
-
-![](https://github.com/romayana/Financial-Product-Sales-Forecast-Model.git/Images/CLR Model - Confusion_matrix_clf_log_regressor_weight balance.png)
-
+![](Images/CLR%20Model%20-%20Roc%20Curve%20First%20Aproach.png)
 
