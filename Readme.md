@@ -114,3 +114,16 @@ Los resultados obtenidos fueron las siguientes.  Claramente mejorables.
 
 •	Construcion y evolucion del modelo.  
 
+Comenzamos el estudio real del modelo.  Recordamos que durante la fase del preprocesado, se generaron hasta 3 bases de datos distintas.
+
+1.	Base de datos eliminando variables categóricas, cambiando a booleano variables de FFII y PP,   eliminando clientes de ciertos rangos de edad y adaptando las variables categóricas con Label Encoder. 
+
+2.	Base de datos anterior a la que se le une la normalización a través de minmaxscaler para que todas las variables estuviesen en una misma escala.  
+
+3.	Base de datos anterior implementando PCA reducción de dimensionalidad.
+
+El modelo ha sido entrenado con las dos primeras bases de datos.  La tercera base de datos con PCA implementada no la vimos necesaria ya que despues de estudiarse la posible reduccion de dimensionalidad vimos que lo único que hacíamos era reducir dos variables con respecto a la base de datos principal.
+
+El entrenamiento y resultado de las dos primeras bases de datos ha sido casi idéntico. Observamos que el hecho de haber normalizado los datos no ha sido un mejor condicionante para obtener mejores resultados.  La explicación de esto es que en un modelo de RandomForest, la normalización no es necesaria ya que no se comparan magnitudes. Se trata de dividir rangos y no de compararlos.  Por otro lado,  durante el preprocesado hemos visto como la importancia de las variables no difería mucho. Estos motivos han hecho que en el estudio final no se haya utilizado la base de datos normalizada.
+
+
