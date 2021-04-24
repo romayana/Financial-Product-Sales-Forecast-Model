@@ -87,7 +87,11 @@ Se han desarrollado 5 modelos distintos de clasificación con el fin de buscar a
 Modelos Machine Learning Entrenados.
 
 •	Modelo Clasificación Regresión Logística 
+
 •	Modelo Clasificación K-Nearest Neighbor 
+
 •	Modelo Clasificación TREE
+
 •	Modelo Clasificación Xgboost
+
 •	**Modelo Clasificación Randon Forest - MODELO FINAL ELEGIDO**
