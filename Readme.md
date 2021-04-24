@@ -147,5 +147,11 @@ El problema del Overfitting queremos solucionarlo mediante tecnicas de **GridSea
 
 Se proponen los siguientes parametros a probar: 
 
-Nº Estimadores [100-125]
+    'n_estimators' : [100,125],
+    'max_features' : ["auto", "log2"],
+    'criterion' : ['gini', 'entropy'],
+    'max_depth' : [2,4,6,8,10],
+    'min_samples_split' : [2,4],
+    'min_samples_leaf' : [15,20]
+
 
