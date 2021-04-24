@@ -22,4 +22,17 @@ Generar un modelo predictivo de clasificación que ayude a toda la fuerza comerc
 
 La generación de comisiones es fundamental para la cuenta de resultados de la oficina y del banco.  Los seguros de hogar se quedan en cartera durante un periodo medio de 5 años. Cada seguro de hogar contratado deja una comisión directa del 15 %.  Esto sobre un seguro de hogar de prima media de 300€ supone 45€ de comisión anual.   Nuestra base de datos correspondiente únicamente a 162 oficinas y 450.000 clientes podría llegar a generar unas comisiones anuales de más de 17mm€ en caso de que todos los clientes que no disponen de seguro de hogar lo contratasen.  Solo con esta cifra y extrapolándola a un colectivo de clientes totales de 3 – 4 millones de clientes,  queda más que explicado la evidente y clara la necesidad de identificar potenciales clientes que sean susceptibles de contratar el seguro de hogar.  
 
+**Informacion del Repositorio**
+
+El repositorio se estructura en   5 carpetas y 4 archivos.
+Carpeta 1 – Códigos Python Limpieza y Unión 
+Carpeta 2 – Códigos Python EDA Análisis Exploratorio
+Carpeta 3 – Códigos Python Preprocesado
+Carpeta 4 – Imágenes .png guardadas de cada una de las gráficas construidas
+Carpeta 5 – Códigos Python Modelos clasificación utilizados.
+Archivo 1 – Diccionario e información del significado de las variables
+Archivo 2 – Readme con primera información del Trabajo y comunicación de expectativas
+Archivo 3 –  .gitignore
+Archivo 4 – Memoria TFM.doc
+
 
