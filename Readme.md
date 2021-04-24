@@ -126,4 +126,13 @@ El modelo ha sido entrenado con las dos primeras bases de datos.  La tercera bas
 
 El entrenamiento y resultado de las dos primeras bases de datos ha sido casi idéntico. Observamos que el hecho de haber normalizado los datos no ha sido un mejor condicionante para obtener mejores resultados.  La explicación de esto es que en un modelo de RandomForest, la normalización no es necesaria ya que no se comparan magnitudes. Se trata de dividir rangos y no de compararlos.  Por otro lado,  durante el preprocesado hemos visto como la importancia de las variables no difería mucho. Estos motivos han hecho que en el estudio final no se haya utilizado la base de datos normalizada.
 
+•	Primeros Problemas detectados
 
+-  Desbalanceo del Taget. 87%-13%.   La primera decisión que tomamos en esta primera evolución del modelo es utilizar un estimador que intente poner remedio al gran desbalanceo de nuestro target.  Para ello utilizamos el estimador de “ Class Weigth = Balanced” para intentar corregirlo. 
+
+-  Overfitting.  Durante el entrenamiento se evidencia claramente la existencia de overfitting.  Los resultados recall obtenidos de Train (0.99) y Test (0.37) demuestran que hay una grave situacion de sobreajuste confirmada posteiormente mediante tecnicas de CrossValidation.  Lo demostramos visualmente mediante grafica de ajuste donde se observa como a partir de 8 "profundidades" empieza a no generalizar bien, separandose las curvas de Train y Test.  
+
+![](Images/RANDOMFOREST%20Model%20-%20Evaluacion%20de%20Overfitting.png)
+
+Las métricas obtenidas solo con este ajuste mejoran algo nuestra primera aproximación, pero en ningún caso lo suficiente
+  
