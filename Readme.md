@@ -96,5 +96,4 @@ Modelos Machine Learning Entrenados.
 
 •	**Modelo Clasificación Randon Forest - MODELO FINAL ELEGIDO**
 
-
 ![](Images/CLR Model - Confusion_matrix_clf_log_regressor_weight balance.png)
