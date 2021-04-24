@@ -179,5 +179,5 @@ Implementamos los mejores parámetros recomendados recogiendo los siguientes res
 •	**Estudio de la Matriz de Confusion final obtenida**
 
 
-![](RANDOMFOREST_MATRIZ_DE_CONFUSION.PNG)
+![](Images/RANDOMFOREST_MATRIZ_DE_CONFUSION.PNG)
 
