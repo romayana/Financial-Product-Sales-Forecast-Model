@@ -94,7 +94,7 @@ Modelos Machine Learning Entrenados.
 
 •	Modelo Clasificación Xgboost
 
-•	**Modelo Clasificación Randon Forest - MODELO FINAL ELEGIDO**
+•	**Modelo Clasificación Random Forest - MODELO FINAL ELEGIDO**
 
 
 **Resumen de Resultados Obtenidos de los modelos entrenados**
