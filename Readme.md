@@ -40,7 +40,7 @@ El repositorio se estructura en   5 carpetas y 4 archivos.
   
   Archivo 2 – Readme con información del Trabajo y comunicación de expectativas
   
-  Archivo 3 – .gitignore
+  Archivo 3 – .gitignore. Archivos descartados en las actualizaciones del repositorio.
   
   Archivo 4 – Memoria TFM.doc
 
