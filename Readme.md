@@ -97,6 +97,8 @@ Modelos Machine Learning Entrenados.
 •	**Modelo Clasificación Randon Forest - MODELO FINAL ELEGIDO**
 
 
+
+
 Resumen de Resultados Obtenidos de los modelos entrenados
 
 ![](Images/resultados_modelos.png)
