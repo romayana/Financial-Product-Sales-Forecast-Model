@@ -110,4 +110,4 @@ Nuestro camino comienza con la base de datos limpia con un preprocesado único d
 
 Los Resultados fueron las siguientes.  Claramente mejorables. 
 
-![](Images/primeros_resultados_random_forest.PNG)
+![](Images/RESULTADO_RANDOM_FOREST_PRIMERA_APROX.PNG)
