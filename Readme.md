@@ -84,3 +84,10 @@ Queremos saber si un clientes es susceptible de contratar o no un  seguro de hog
 
 Se han desarrollado 5 modelos distintos de clasificación con el fin de buscar aquel que mejor métricas y mejores comportamientos tenga según nuestras necesidades concretas. Las principales métricas que utilizaremos como evaluadores de nuestros modelos son Recall y Roc Auc.
 
+Modelos Machine Learning Entrenados.
+
+•	Modelo Clasificación Regresión Logística 
+•	Modelo Clasificación K-Nearest Neighbor 
+•	Modelo Clasificación TREE
+•	Modelo Clasificación Xgboost
+•	**Modelo Clasificación Randon Forest - MODELO FINAL ELEGIDO**
