@@ -31,8 +31,15 @@ El repositorio se estructura en   5 carpetas y 4 archivos.
 - Carpeta 4 – Imágenes .png guardadas de cada una de las gráficas construidas
 - Carpeta 5 – Códigos Python Modelos clasificación utilizados.
 - Archivo 1 – Diccionario e información del significado de las variables
-- Archivo 2 – Readme con primera información del Trabajo y comunicación de expectativas
+- Archivo 2 – Readme con información del Trabajo y comunicación de expectativas
 - Archivo 3 – .gitignore
 - Archivo 4 – Memoria TFM.doc
 
+**Requisitos Tecnicos y guia de ejecucion**
+
+Para ejecutar el código es necesario tener instalado Python versión 3.8 así como distintos paquetes o librerías.  Se recomienda tener instalada la Suite Anaconda donde se encontrarán preinstalados la mayoría de los paquetes y librerías que son necesarias. Adicionalmente sera necesaria la instalacion de los siguientes librerias:
+
+•	Imbalanced learn - pip install imbalanced learn
+•	pydotplus - pip install pydotplus
+•	strealit - pip install setreamlit
 
