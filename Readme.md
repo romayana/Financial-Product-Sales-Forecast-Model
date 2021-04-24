@@ -2,7 +2,7 @@
 
 **Motivación**
 
-Llevo 23 años trabajando en el sector bancario. Durante estos años he pasado por todas las categorías posibles dentro de una oficina de red privada abierta al consumidor. Desde vendedor de caja, vendedor de mesa hasta director de oficina. Los bancos, entendidos como simples mediadores o canalizadores de la riqueza entre los diferentes actores de la sociedad, han cambiado. Han sufrido una transformación, han evolucionado y se han adaptado a todos los tiempos, a las circunstancias económicas y a la forma de pensar de los clientes. Como consecuencia de las diferentes crisis económicas vividas, la reducción de los tipos de interés y por tanto de los beneficios obtenidos por estos conceptos, el puro negocio de captar y prestar dinero ha dejado de ser la única motivación de este negocio. La venta de otros productos financieros como los fondos de inversión, los planes de pensiones y los seguros de riesgo, entre otros, han conseguido acaparar toda la importancia. El banco se ha especializado en este tipo de productos, dirigiendo toda su fuerza y estrategia comercial a la venta de estos productos mediante el asesoramiento especializado a sus clientes por parte de los empleados de las sucursales.
+Desde 1998 hasta la actualidad, he desarrollado mi vida profesional en una entidad financiera, principalmente en Banca de particulares. Durante estos 23 años he pasado por todas las categorías laborales posibles dentro de una oficina comercial abierta al consumidor.  Desde comercial de caja y de mesa,  a subdirector y director de oficina. En 2018, motivado por la búsqueda de nuevas habilidades, reciclaje laboral y personal, la adaptación a la nueva realidad de transformación digital y la necesidad de construir un plan alternativo debido a las inciertas perspectivas laborales,  huyendo de mi zona de confort decido cursar un Master en Bussines Analytics con la intención de aprender nuevas formas de análisis de negocio y poder ponerlas en práctica.   Durante el curso me doy cuenta que aun sin ninguna base de programación o informática, estadística o matemáticas, procediendo de una licenciatura de letras, había encontrado una motivación, una nueva parcela de estudio y un nuevo reto.  Decido continuar la formación con el Master en Data Science de K-School, recomendado por un antiguo profesor y siempre avisado de la dificultad técnica del mismo.  El resultado lo puedo definir en una frase.  Intenso pero entusiasmado y con ganas de continuar mi formación.
 
 
 **Datos**
@@ -12,7 +12,11 @@ Los datos provienen de la suma de diferentes conjuntos de datos obtenidos direct
 
 **Objetivos**
 
-Los Fondos de Inversión, Planes de Pensiones y Seguros de Riesgo comercializados en las oficinas bancarias así como su mantenimiento en cartera durante 5 años de media, son de gran importancia dentro de la cuenta de resultados de una oficina y por extensión de un banco. En este escenario y a través de un conjunto de datos pertenecientes a 450.000 clientes he querido desarrollar un modelo predictivo de compra de estos productos financieros. Un modelo predictivo de clasificación que ayude a toda la fuerza comercial de las sucursales a orientar la comercialización, a optimizar los tiempos, metodologías y sistemas utilizados. Todo ello en busca de un mayor éxito de ventas y satisfacción de los clientes.
+Los Seguros de Riesgo comercializados en las oficinas bancarias, así como su mantenimiento en cartera durante 5 años de media, son de gran importancia dentro de la cuenta de resultados de una oficina y por extensión de un banco. En este escenario y a través de un conjunto de datos pertenecientes a 450.000 clientes he querido desarrollar un modelo predictivo de compra de estos productos financieros concretando en los Seguros del Hogar.
+
+**Finalidad**
+
+Generar un modelo predictivo de clasificación que ayude a toda la fuerza comercial de las sucursales a orientar la comercialización, a optimizar los tiempos, metodologías y sistemas utilizados. Todo ello en busca de un mayor éxito de ventas y satisfacción de los clientes
 
 **Importancia del problema a resolver**
 
