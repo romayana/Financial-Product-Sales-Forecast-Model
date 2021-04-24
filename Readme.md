@@ -98,6 +98,6 @@ Modelos Machine Learning Entrenados.
 
 ![](Images/CLR Model - Confusion_matrix_clf_log_regressor_weight balance.png)
 
-![alt text](https://github.com/romayana/Financial-Product-Sales-Forecast-Model.git/Images/CLR Model - Confusion_matrix_clf_log_regressor_weight balance.png)
+![](https://github.com/romayana/Financial-Product-Sales-Forecast-Model.git/Images/CLR Model - Confusion_matrix_clf_log_regressor_weight balance.png)
 
 
