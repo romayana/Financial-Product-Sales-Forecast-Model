@@ -159,7 +159,8 @@ Resultando elegidos los siguientes:
     'criterion': 'gini',
     'max_depth': 10,
     'max_features': 'auto',
- 'min_samples_leaf': 15,
- 'min_samples_split': 2,
- 'n_estimators': 100
+    'min_samples_leaf': 15,
+    'min_samples_split': 2,
+    'n_estimators': 100
 
+•	Construccion del Modelo con los Mejores Parametros atendiendo a GridSearch
