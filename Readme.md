@@ -102,7 +102,7 @@ Modelos Machine Learning Entrenados.
 ![](Images/RESUMEN_RESULTADOS_FINALES.png)
 
 
-### **10. Desarrollo del Modelo**
+### **10. Desarrollo y construcción del Modelo**
 
 •	**Primera Aproximación**
 
@@ -174,4 +174,9 @@ Implementamos los mejores parámetros recomendados recogiendo los siguientes res
 \- Obtenemos unos resultados finales con los que quedamos satisfechos. Son acordes a nuestra busqueda y necesidad. 
 
 ![](Images/RESULTADO_RANDOM_FOREST_FINAL.PNG)
+
+
+•	**Estudio de la Matriz de Confusion final obtenida**
+
+![](RANDOMFOREST%20Model%20-%20Confusion_Matrix_Gridsearch.png)
 
