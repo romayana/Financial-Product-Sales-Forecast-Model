@@ -163,4 +163,8 @@ Resultando elegidos los siguientes:
     'min_samples_split': 2,
     'n_estimators': 100
 
-•	**Construccion del Modelo con los Mejores Parametros atendiendo a GridSearch.**
+•	**Construccion del Modelo con los Mejores Parametros propuestos mediante GridSearch.**
+
+Implementamos los mejores parámetros recomendados recogiendo los siguientes resultados.
+
+\- La primera mejora obtenida es que  hemos conseguido solucionar el overfitting igualando las métricas de Train y Test a 0.86 y 0.85  
