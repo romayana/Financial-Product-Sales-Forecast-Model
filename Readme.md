@@ -171,7 +171,7 @@ Implementamos los mejores parámetros recomendados recogiendo los siguientes res
 
 \- Conseguimos solucionar el overfitting igualando las métricas de Train y Test a 0.86 y 0.85  
 
-\- Obtenemos unos resultados finales acordes a nuestra busqueda y necesidad.
+\- Obtenemos unos resultados finales con los que quedamos satisfechos. Son acordes a nuestra busqueda y necesidad. 
 
 ![](Images/RESULTADO_RANDOM_FOREST_FINAL.PNG)
 
