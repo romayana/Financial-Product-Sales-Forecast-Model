@@ -104,7 +104,7 @@ Modelos Machine Learning Entrenados.
 
 ### **10. Desarrollo del Modelo**
 
-•	Primera Aproximación
+•	**Primera Aproximación**
 
 Mi primera intencion era saber que resultados obtendriamos sin hacer nada, simplementes utilizando la base de datos en crudo.  Utilizamos en esta primera aproximacion al modelo la primer base de datos construida en nuestra fase de merging & cleanning.  Se trata de una base de datos cuyo unico preprocesamiento ha sido la identificacion de los Nans y posterior asignacion de valores acordes a las particularidades de cada una de las variables.
 
@@ -112,7 +112,7 @@ Los resultados obtenidos fueron las siguientes.  Claramente mejorables.
 
 ![](Images/RESULTADO_RANDOM_FOREST_PRIMERA_APROX.PNG)
 
-•	Construcion y evolucion del modelo.  
+•	**Construcion y evolucion del modelo.**
 
 Comenzamos el estudio real del modelo.  Recordamos que durante la fase del preprocesado, se generaron hasta 3 bases de datos distintas.
 
@@ -126,7 +126,7 @@ El modelo ha sido entrenado con las dos primeras bases de datos.  La tercera bas
 
 El entrenamiento y resultado de las dos primeras bases de datos ha sido casi idéntico. Observamos que el hecho de haber normalizado los datos no ha sido un mejor condicionante para obtener mejores resultados.  La explicación de esto es que en un modelo de RandomForest, la normalización no es necesaria ya que no se comparan magnitudes. Se trata de dividir rangos y no de compararlos.  Por otro lado,  durante el preprocesado hemos visto como la importancia de las variables no difería mucho. Estos motivos han hecho que en el estudio final no se haya utilizado la base de datos normalizada.
 
-•	Primeros Problemas detectados
+•	**Primeros Problemas detectados**
 
 -  Desbalanceo del Taget. 87%-13%.   La primera decisión que tomamos en esta primera evolución del modelo es utilizar un estimador que intente poner remedio al gran desbalanceo de nuestro target.  Para ello utilizamos el estimador de “ Class Weigth = Balanced” para intentar corregirlo. 
 
@@ -139,7 +139,7 @@ Los resultados y metricas finales de esta primera evolucion solo mejoran algo nu
 ![](Images/RESULTADO_RANDOM_FOREST_EVOLUCION.PNG)
 
 
-•	Soluciones planteadas a los problemas detectados.
+•	**Soluciones planteadas a los problemas detectados.**
 
 El problema del desbalanceo del Target ha sido solucionado mediante la utilizacion del estimador “ Class Weigth = Balanced”.
 
@@ -163,4 +163,4 @@ Resultando elegidos los siguientes:
     'min_samples_split': 2,
     'n_estimators': 100
 
-•	Construccion del Modelo con los Mejores Parametros atendiendo a GridSearch
+•	**Construccion del Modelo con los Mejores Parametros atendiendo a GridSearch.**
