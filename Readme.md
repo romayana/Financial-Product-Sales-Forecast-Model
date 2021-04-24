@@ -139,5 +139,13 @@ Los resultados y metricas finales de esta primera evolucion solo mejoran algo nu
 ![](Images/RESULTADO_RANDOM_FOREST_EVOLUCION.PNG)
 
 
+•	Soluciones planteadas a los problemas detectados.
 
-  
+El problema del desbalanceo del Target ha sido solucionado mediante la utilizacion del estimador “ Class Weigth = Balanced”.
+
+El problema del Overfitting queremos solucionarlo mediante tecnicas de **GridSearch** el cual permite evaluar y seleccionar de forma sistemática los parámetros de un modelo. Indicándole un modelo y los parámetros a probar, puede evaluar el rendimiento del primero en función de los segundos mediante validación cruzada. 
+
+Se proponen los siguientes parametros a probar: 
+
+Nº Estimadores [100-125]
+
