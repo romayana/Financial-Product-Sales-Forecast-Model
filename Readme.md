@@ -99,7 +99,7 @@ Modelos Machine Learning Entrenados.
 
 **Resumen de Resultados Obtenidos de los modelos entrenados**
 
-![](Images/RESUMEN_RESULTADOS_FINALES.png)
+
 
 
 ### **10. Desarrollo del Modelo**
