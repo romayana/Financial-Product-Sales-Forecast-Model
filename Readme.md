@@ -35,7 +35,7 @@ El repositorio se estructura en   5 carpetas y 4 archivos.
 - Archivo 3 – .gitignore
 - Archivo 4 – Memoria TFM.doc
 
-**Requisitos Tecnicos y Guia de ejecucion**
+**Requisitos Tecnicos**
 
 Para ejecutar el código es necesario tener instalado Python versión 3.8 así como distintos paquetes o librerías.  Se recomienda tener instalada la Suite Anaconda donde se encontrarán preinstalados la mayoría de los paquetes y librerías que son necesarias. Adicionalmente sera necesaria la instalacion de los siguientes librerias:
 
@@ -45,19 +45,19 @@ Para ejecutar el código es necesario tener instalado Python versión 3.8 así c
 
 •	strealit - pip install setreamlit
 
-Guia de ejecución
+**Guia de ejecución**
 1.	Clonar repositorio GitHub https://github.com/romayana/Financial-Product-Sales-Forecast-Model.git en carpeta local elegida.
 2.	Descargar base de datos:
 A pesar de haberse Anonimizado toda la base de datos, se ha decidido que la misma no estará disponible en el repositorio de GitHub.  Para acceder a la base de datos ubicada en el Google Drive del propietario del TFM,   se tendrá que solicitar permiso y acceso a la misma  dirigiendo correo electrónico a manuelgonzalezprados@gmail.com el cual previa valoración de los fines y objetivos perseguidos podrá compartir el enlace con la persona solicitante.
 Una vez compartido el acceso,  descargar y ubicar la carpeta entera llamada Origin_Data en la carpeta carpeta local donde se ha clonado el repositorio.
 3.	Ejecutar código con la siguiente secuencia y orden. Los archivos csv se irán guardando en cada una de las carpetas.
-o	1º Carpeta Leasing & Merging
-	_merging_data,ipynb 
-	_cleanning_data.ipynb
+o	1º Carpeta Cleanning & Merging
+ - _merging_data,ipynb 
+ - _cleanning_data.ipynb
 o	2º Carpeta Exploratory Data Analysis
-	EDA.ipynb
+ -	EDA.ipynb
 o	3º Carpeta Preprocessing
-	Preprocessing.ipynb
+ -	Preprocessing.ipynb
 o	4º Carpeta Models
-	Ejecutar los modelos.
+ -	Ejecutar los modelos.
 
