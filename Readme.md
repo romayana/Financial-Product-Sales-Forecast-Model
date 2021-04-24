@@ -40,6 +40,8 @@ El repositorio se estructura en   5 carpetas y 4 archivos.
 Para ejecutar el código es necesario tener instalado Python versión 3.8 así como distintos paquetes o librerías.  Se recomienda tener instalada la Suite Anaconda donde se encontrarán preinstalados la mayoría de los paquetes y librerías que son necesarias. Adicionalmente sera necesaria la instalacion de los siguientes librerias:
 
 •	Imbalanced learn - pip install imbalanced learn
+
 •	pydotplus - pip install pydotplus
+
 •	strealit - pip install setreamlit
 
