@@ -168,7 +168,9 @@ Resultando elegidos los siguientes:
 Implementamos los mejores parámetros recomendados recogiendo los siguientes resultados.
 
 \- Consolidamos la solucion del desbalanceo mediante Class Weigth = Balanced
+
 \- Conseguimos solucionar el overfitting igualando las métricas de Train y Test a 0.86 y 0.85  
+
 \- Obtenemos unos resultados finales acordes a nuestra busqueda y necesidad.
 
 ![](Images/RESULTADO_RANDOM_FOREST_FINAL.PNG)
