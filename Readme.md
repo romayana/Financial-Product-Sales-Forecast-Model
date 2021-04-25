@@ -109,8 +109,6 @@ Nuestra Direccion Territorial esta compuesta por los siguientes  Direcciones de 
 
 ### **10. Estudio del Target**
 
-Estudiamos mas en profundidad nuestra Target.
-
 \- ¿Cuál es su estructura con respecto a nuestro marco general
 
 La DZ que más clientes tiene con seguro de hogar contratado es la DZ 3 con 7233 clientes mientras que la que menos tiene es la DZ 8 con 2.274 clientes.  En todo caso, las cifras son bajas y la media se posiciona en 5.346 clientes.  Estos datos vs un data set de 450.000 clientes reflejan un gran potencial de comercialización.
