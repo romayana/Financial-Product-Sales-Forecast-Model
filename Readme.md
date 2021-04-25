@@ -94,8 +94,13 @@ Para poder entender la importacia de nuestro modelo, el impacto economico y repe
 
 \- Clientes de cada una de las Oficinas. 
 
-![](Images/clientesentidadesfinancieras.png)
+Nuestra base de datos hace referencia a una de esas territoriales y su estructura interna con un total de 450.000 clientes.
 
+Teniendo en cuenta este volumen de negocio de clientes, el impacto y ganancia economica de una entidad financiera con 2000 - 3000 oficinas puede ser enorme.
+
+Nuestra Direccion Territorial esta compuesta por los siguientes  Direcciones de Zona, oficinas y clientes.
+
+![](Images/EDA-Numero%20de%20Oficinas%20por%20DZ.png)
 
 ### **9. Eleccion del Modelo**
 
