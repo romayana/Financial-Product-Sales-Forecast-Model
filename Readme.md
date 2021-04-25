@@ -78,6 +78,18 @@ Paso 4. Ejecutar código con la siguiente secuencia y orden. Los archivos csv se
 4º Carpeta Models
  -	Ejecutar los modelos.
 
+### **9. Contexto de nuestra base de datos**
+
+Para poder entender la importacia de nuestro modelo, el impacto economico y repercusion que puede llegar a tener el hecho de saber diferenciar a los clientes susceptibles de contratar el seguro de hogar  vamos a hacer un retrato piramidal de como esta estructurada la entidad financiera.  Direcciones de territoriales, Direcciones de Zona, oficinas y gestores y asesores y clientes de cada una de estas oficinas.
+
+\- Direccion Banca Particulares.  Destinada a la atencion de clientes particulares / personas fisicas.
+\- Direccones Territoriales. Division en un numero determinado de Direcciones Territoriales segun distribucion nacional. 
+\- Direcciones de Zona. Cada una de las Direcciones Territoriales esta dividida en Direcciones de Zona dando cobertura a cada una de las zonas geograficas de ese territorio.
+\- Oficinas. Cada Direccion de Zona esta dividida en un numero concreto de Oficinas atendiendo a situacion geografica vinculada con esa Direccion de Zona.
+\- Asesores Financieros- Cada una de estas oficinas dispone de un numero determinado de Asesores Financieros.  Entre 1 y 4. Dependiendo el volumen de clientes.
+\- Clientes de cada una de las Oficinas. 
+
+
 ### **9. Eleccion del Modelo**
 
 Queremos saber si un clientes es susceptible de contratar o no un  seguro de hogar. Buscamos una sistemática comercial que simplifique el estudio de los clientes antes de llamarles.  Buscamos una optimización del tiempo para llegar a cuantos mas clientes mejor. Nos interesa finalmente filtrar aquellos clientes a los que tenemos que llamar.  Este filtro se puede obtener desde dos perspectivas.  Y lo buscamos dentro de una matriz de confusión. Buscando verdaderos positivos para cargarlos en el objetivo de contactos diarios y que los comerciales puedan llamarles o identificando verdaderos negativos para desecharlos y finalmente coger los verdaderos positivos y llamarles.  En ambos casos llegamos a la misma conclusión y obtenemos lo que realmente queremos.  Llamar a los que nos interesan.
