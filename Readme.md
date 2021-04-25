@@ -42,7 +42,7 @@ El repositorio se estructura en   5 carpetas y 4 archivos.
   
   Archivo 3 – .gitignore. Archivos descartados en las actualizaciones del repositorio.
   
-  Archivo 4 – Memoria TFM.doc
+  Archivo 4 – Documento Memoria TFM ampliada.
 
 ### **7. Requisitos Tecnicos**
 
