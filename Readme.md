@@ -80,11 +80,13 @@ Paso 4. Ejecutar código con la siguiente secuencia y orden. Los archivos csv se
 
 ### **9. Contexto de nuestra base de datos**
 
-Para poder entender la importacia de nuestro modelo, el impacto economico y repercusion que puede llegar a tener el hecho de saber diferenciar a los clientes susceptibles de contratar el seguro de hogar  vamos a hacer un retrato piramidal de como esta estructurada la entidad financiera.  Direcciones de territoriales, Direcciones de Zona, oficinas,  asesores y clientes de cada una de estas oficinas.
+Para poder entender la importacia de nuestro modelo, el impacto economico y repercusion que puede llegar a tener el hecho de saber diferenciar a los clientes susceptibles de contratar el seguro de hogar  vamos a hacer un retrato piramidal de como esta estructurada la entidad financiera. 
+
+Direcciones de territoriales, Direcciones de Zona, oficinas,  asesores y clientes de cada una de estas oficinas.
 
 \- Direccion Banca Particulares.  Destinada a la atencion de clientes particulares / personas fisicas.
 
-\- Direccones Territoriales. Division en un numero determinado de Direcciones Territoriales segun distribucion nacional. 
+\- Direcciones Territoriales. Division en un numero determinado de Direcciones Territoriales segun distribucion nacional. 
 
 \- Direcciones de Zona. Cada una de las Direcciones Territoriales esta dividida en Direcciones de Zona dando cobertura a cada una de las zonas geograficas de ese territorio.
 
@@ -102,9 +104,13 @@ Nuestra Direccion Territorial esta compuesta por los siguientes  Direcciones de 
 
 ![](Images/unidades_de_negocio.PNG)
 
-![](Images/EDA-Numero%20de%20Oficinas%20por%20DZ.png)
+![](Images/EDA-Numero%20de%20Oficinas%20por%20DZ.png)    ![](Images/EDA-Total%20Clientes%20por%20Oficina.png)
 
-### **9. Eleccion del Modelo**
+
+### **10. Estudio del Target**
+
+
+### **11. Eleccion del Modelo**
 
 Queremos saber si un clientes es susceptible de contratar o no un  seguro de hogar. Buscamos una sistemática comercial que simplifique el estudio de los clientes antes de llamarles.  Buscamos una optimización del tiempo para llegar a cuantos mas clientes mejor. Nos interesa finalmente filtrar aquellos clientes a los que tenemos que llamar.  Este filtro se puede obtener desde dos perspectivas.  Y lo buscamos dentro de una matriz de confusión. Buscando verdaderos positivos para cargarlos en el objetivo de contactos diarios y que los comerciales puedan llamarles o identificando verdaderos negativos para desecharlos y finalmente coger los verdaderos positivos y llamarles.  En ambos casos llegamos a la misma conclusión y obtenemos lo que realmente queremos.  Llamar a los que nos interesan.
 
