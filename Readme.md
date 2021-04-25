@@ -109,6 +109,28 @@ Nuestra Direccion Territorial esta compuesta por los siguientes  Direcciones de 
 
 ### **10. Estudio del Target**
 
+Estudiamos mas en profundidad nuestra Target.
+
+\- ¿Cuál es su estructura con respecto a nuestro marco general
+
+La DZ que más clientes tiene con seguro de hogar contratado es la DZ 3 con 7233 clientes mientras que la que menos tiene es la DZ 8 con 2.274 clientes.  En todo caso, las cifras son bajas y la media se posiciona en 5.346 clientes.  Estos datos vs un data set de 450.000 clientes reflejan un gran potencial de comercialización.
+
+![](Images/EDA-Clientes%20con%20Seguro%20de%20Hogar%20por%20DZ.png)
+
+Vemos como es un seguro que tampoco tiene mucha penetración en los clientes.  Solo el 13 % de los clientes de la base de datos tiene este seguro.  El segmento de clientes que mas contrataciones de seguros de hogar son entre 25 y 90.  Ninguno de los extremos tienen contratacion de seguros relevantes.  
+  
+![](Images/EDA-Clientes%20con%20Seguro%20de%20Hogar%20por%20edad.png)
+
+\- Desbalanceo. Las cifras anteriores reflejan otra circunstancia importante y es el gran desbalanceo que tiene el Target.  Esta circunstancia se tendra en cuenta en la elaboracion del modelo. 
+
+![](Images/Images/EDA-TARGET%20Desbalanceo.png)
+
+\- ¿Correlaciones con otras variables.? 
+
+En general las correlaciones son bajas . Vemos como aquellos que tienen nomina domiciliada y recibos domiciliados son los clientes que más relación tienen con el seguro de hogar.  Aun así, la mayor correlación es de 0.17.
+
+![](Images/EDA-Correlationes%20TARGET%20vs%20Todas.png)
+
 
 ### **11. Eleccion del Modelo**
 
