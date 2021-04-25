@@ -123,7 +123,7 @@ Vemos como es un seguro que tampoco tiene mucha penetración en los clientes.  S
 
 \- Desbalanceo. Las cifras anteriores reflejan otra circunstancia importante y es el gran desbalanceo que tiene el Target.  Esta circunstancia se tendra en cuenta en la elaboracion del modelo. 
 
-![](Images/Images/EDA-TARGET%20Desbalanceo.png)
+![](Images/EDA-TARGET%20Desbalanceo.png)
 
 \- ¿Correlaciones con otras variables.? 
 
