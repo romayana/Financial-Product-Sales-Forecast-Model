@@ -80,7 +80,7 @@ Paso 4. Ejecutar código con la siguiente secuencia y orden. Los archivos csv se
 
 ### **9. Contexto de nuestra base de datos**
 
-Para poder entender la importacia de nuestro modelo, el impacto economico y repercusion que puede llegar a tener el hecho de saber diferenciar a los clientes susceptibles de contratar el seguro de hogar  vamos a hacer un retrato piramidal de como esta estructurada la entidad financiera.  Direcciones de territoriales, Direcciones de Zona, oficinas y gestores y asesores y clientes de cada una de estas oficinas.
+Para poder entender la importacia de nuestro modelo, el impacto economico y repercusion que puede llegar a tener el hecho de saber diferenciar a los clientes susceptibles de contratar el seguro de hogar  vamos a hacer un retrato piramidal de como esta estructurada la entidad financiera.  Direcciones de territoriales, Direcciones de Zona, oficinas,  asesores y clientes de cada una de estas oficinas.
 
 \- Direccion Banca Particulares.  Destinada a la atencion de clientes particulares / personas fisicas.
 
