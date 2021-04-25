@@ -111,11 +111,11 @@ Nuestra Direccion Territorial esta compuesta por los siguientes  Direcciones de 
 
 \- ¿Cuál es su estructura con respecto a nuestro marco general
 
-Solo 58.811 clientes de los 450.000, disponen de Seguro de Hogar. La DZ que más clientes tiene con seguro de hogar contratado es la DZ 3 con 7233 clientes mientras que la que menos tiene es la DZ 8 con 2.274 clientes.  En todo caso, las cifras son bajas y la media se posiciona en 5.346 clientes.  Estos datos vs un data set de 450.000 clientes reflejan un gran potencial de comercialización.
+Solo 58.811 clientes de los 450.000, disponen de Seguro de Hogar. La DZ que más clientes tiene con seguro de hogar contratado es la DZ 3 con 7233 clientes mientras que la que menos tiene es la DZ 8 con 2.274 clientes.  En todo caso, las cifras son bajas y la media se posiciona en 5.346 clientes.  Estos datos reflejan un altisimo potencial de comercializacion.
 
 ![](Images/EDA-Clientes%20con%20Seguro%20de%20Hogar%20por%20DZ.png)
 
-Vemos como es un seguro que tampoco tiene mucha penetración en los clientes.  Solo el 13 % de los clientes de la base de datos tiene este seguro.  El segmento de clientes que mas contrataciones de seguros de hogar son entre 25 y 90.  Ninguno de los extremos tienen contratacion de seguros relevantes.  
+Solo el 13 % de los clientes  tiene este seguro.  El segmento de clientes que mas contrataciones de seguros de hogar son entre 25 y 90.  Ninguno de los extremos tienen contratacion de seguros relevantes.  
   
 ![](Images/EDA-Clientes%20con%20Seguro%20de%20Hogar%20por%20edad.png)
 
