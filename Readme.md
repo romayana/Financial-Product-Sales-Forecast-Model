@@ -94,7 +94,7 @@ Para poder entender la importacia de nuestro modelo, el impacto economico y repe
 
 \- Clientes de cada una de las Oficinas. 
 
-![](EDA-Numero%20de%20Oficinas%20por%20DZ.png)
+
 
 
 ### **9. Eleccion del Modelo**
