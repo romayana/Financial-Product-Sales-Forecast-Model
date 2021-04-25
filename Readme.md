@@ -83,11 +83,20 @@ Paso 4. Ejecutar código con la siguiente secuencia y orden. Los archivos csv se
 Para poder entender la importacia de nuestro modelo, el impacto economico y repercusion que puede llegar a tener el hecho de saber diferenciar a los clientes susceptibles de contratar el seguro de hogar  vamos a hacer un retrato piramidal de como esta estructurada la entidad financiera.  Direcciones de territoriales, Direcciones de Zona, oficinas y gestores y asesores y clientes de cada una de estas oficinas.
 
 \- Direccion Banca Particulares.  Destinada a la atencion de clientes particulares / personas fisicas.
+
 \- Direccones Territoriales. Division en un numero determinado de Direcciones Territoriales segun distribucion nacional. 
+
 \- Direcciones de Zona. Cada una de las Direcciones Territoriales esta dividida en Direcciones de Zona dando cobertura a cada una de las zonas geograficas de ese territorio.
+
 \- Oficinas. Cada Direccion de Zona esta dividida en un numero concreto de Oficinas atendiendo a situacion geografica vinculada con esa Direccion de Zona.
+
 \- Asesores Financieros- Cada una de estas oficinas dispone de un numero determinado de Asesores Financieros.  Entre 1 y 4. Dependiendo el volumen de clientes.
+
 \- Clientes de cada una de las Oficinas. 
+
+![](EDA-Numero%20de%20Oficinas%20por%20DZ.png)
+
+
 
 
 ### **9. Eleccion del Modelo**
