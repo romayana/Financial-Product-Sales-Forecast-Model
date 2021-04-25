@@ -100,6 +100,7 @@ Teniendo en cuenta este volumen de negocio de clientes, el impacto y ganancia ec
 
 Nuestra Direccion Territorial esta compuesta por los siguientes  Direcciones de Zona, oficinas y clientes.
 
+![](Images/unidades_de_negocio.PNG)
 ![](Images/EDA-Numero%20de%20Oficinas%20por%20DZ.png)
 
 ### **9. Eleccion del Modelo**
