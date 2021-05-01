@@ -25,17 +25,28 @@ La generación de comisiones es fundamental para la cuenta de resultados de la o
 ### **6. Informacion del Repositorio**
 
 El repositorio se estructura en   7 carpetas y 4 archivos. ( Según posición en repositorio )
+
 Carpeta 1 – Códigos Python Limpieza y Unión 
+
 Carpeta 2 – Códigos Python EDA Análisis Exploratorio
+
 Carpeta 3 – Frontend.  Aplicación creada para nuestro modelo (APP CallorNot.)
+
 Carpeta 4 – Imágenes .png guardadas de cada una de las gráficas construidas
-Carpeta 5 – Memoria. Documento y notebooks memoria.
+
+Carpeta 5 – Memoria. Notebooks memoria & codigo y memoria simplificada.
+
 Carpeta 6 – Códigos Python Modelos clasificación utilizados.
+
 Carpeta 7 – Códigos Python Preprocesado
+
 Archivo 1 – archivo .gitignore.  Archivos descartados en las actualizaciones del repositorio
+
 Archivo 2 – Diccionario e información del significado de las variables
-Archivo 3 – Memoria TFM.doc
-Archivo 4 – Ruadme con primera información del Trabajo y comunicación de expectativas
+
+Archivo 3 – Memoria TFM. Documento word Memoria.
+
+Archivo 4 – Readme con primera información del Trabajo y comunicación de expectativas
 
 
 ### **7. Requisitos Tecnicos**
