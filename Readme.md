@@ -57,7 +57,7 @@ Para ejecutar el código es necesario tener instalado Python versión 3.8 así c
 
 •	pydotplus - pip install pydotplus
 
-•	strealit - pip install setreamlit
+•	streamlit - pip install setreamlit
 
 ### **8. Guia y ejecución**
 
@@ -82,4 +82,8 @@ Paso 4. Ejecutar código con la siguiente secuencia y orden. Los archivos csv se
 
 4º Carpeta Models
  -	Ejecutar los modelos.
+
+5º Carpeta Frontend
+ - Aplicación Callornot
+
 
