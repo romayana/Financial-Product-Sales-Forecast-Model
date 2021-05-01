@@ -1,4 +1,4 @@
-<p style='text-align: justify;'> # **Modelo Previsión Ventas Productos Financieros**
+# **Modelo Previsión Ventas Productos Financieros**
 
 ### **1. Motivación Personal**
 
