@@ -15,8 +15,9 @@ clasificador = pickle.load(pickle_in)
 def prediccion (edad, marca_bp, seg_valor, seg_recorrido, marca_ccte, camino_digital,
               saldo_ffii, saldo_plp, lp_dom_ingresos, lp_rbos,
               lp_seg_vida ,lp_seg_auto ,lp_seg_acc, lp_tjta_cto, lp_tjt_rev,
-              Saldo_cuenta, Saldo_financiacion ):   
- 
+              saldo_captacion, saldo_financiacion ):   
+    
+     
     
     #Nº1--------------------------------------
     edad == edad
