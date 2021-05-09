@@ -75,7 +75,7 @@ if not st.sidebar.checkbox("Hide", True, key='1'):
     elif marca_ccte == "CCTE":
         marca_ccte = 1
     else:
-        marca_ccte = 0 
+        marca_ccte = 2
 
         #Nª6--------------------------------------    
     if camino_digital ==   "SIN USO":
