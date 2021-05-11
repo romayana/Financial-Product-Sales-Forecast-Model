@@ -83,6 +83,6 @@ Paso 4. Ejecutar código con la siguiente secuencia y orden. Los archivos csv se
  -	Ejecutar los modelos.
 
 5º Carpeta Frontend
- - Aplicación Callornot
+ - Aplicación Callornot.
 
 
