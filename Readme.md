@@ -63,7 +63,7 @@ Paso 1. Clonar repositorio GitHub https://github.com/romayana/Financial-Product-
 
 Paso 2. Descargar base de datos:
 
-A pesar de haberse Anonimizado toda la base de datos, se ha decidido que la misma no estará disponible en el repositorio de GitHub.  Para acceder a la base de datos ubicada en el Google Drive del propietario del TFM [link](https://drive.google.com/drive/folders/1ObyC9rQyxBsYThrRpwnecC4TdJHXbJyz?)
+A pesar de haberse Anonimizado toda la base de datos, se ha decidido que la misma no estará disponible en el repositorio de GitHub.  Para acceder a la base de datos ubicada en el Google Drive del propietario del TFM [link](https://drive.google.com/drive/folders/1ObyC9rQyxBsYThrRpwnecC4TdJHXbJyz?usp=sharing)
 ,   se tendrá que solicitar permiso y acceso a la misma  dirigiendo correo electrónico a manuelgonzalezprados@gmail.com el cual previa valoración de los fines y objetivos perseguidos podrá compartir el enlace con la persona solicitante.
 
 Paso 3. Una vez compartido el acceso,  descargar y ubicar la carpeta entera llamada Origin_Data en la carpeta carpeta local donde se ha clonado el repositorio.
